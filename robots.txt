@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oflsea.github.io/dmo/sitemap.dmo.gz
